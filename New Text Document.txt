@@ -1,0 +1,9 @@
+https://fontawesome.com/icons?d=gallery&s=brands
+
+
+
+
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css
+
+
+<svg-icon><src href="sprite.svg#si-glyph-mail-send" /></svg-icon>
